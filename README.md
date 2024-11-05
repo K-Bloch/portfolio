@@ -1,5 +1,7 @@
 # Data Analyst
 
+#### Technical skills: SQL, Power BI, Tableau, MS Office (Excel, PowerPoint, Word), Python
+
 ## Experience
 **Client Service and Operations Analyst @ State Street Bank**  
 2021 - 2024
@@ -51,4 +53,8 @@ Performed self-guided learning to develop skills in Excel, SQL, and Tableau / Po
 
   **Alteryx Designer Core Certificate**     
     Alteryx    
+    2024
+
+  **AI Fundamentals Certificate**    
+    DataCamp   
     2024
