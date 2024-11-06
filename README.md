@@ -3,7 +3,7 @@
 #### Technical skills: SQL, Power BI, Tableau, MS Office (Excel, PowerPoint, Word), Python
 
 ## Experience
-**Client Service and Operations Analyst @ State Street Bank**  
+**Client Service and Operations Analyst @ State Street Bank | Remote**  
 2021 - 2024
 
 - Prepared periodic financial statements under strict deadlines, ranging from daily to semi-annual reports, averaging 35 detailed reports per month.
@@ -14,7 +14,7 @@
     * Identified optimization opportunities in repetitive and manual tasks, collaborating with a team of developers and a client to automate processes and eliminate redundant work. Gained hands-on experience with Python scripts, SQL, and databases.
     * Reduced overall report preparation time by 15% and decreased the number of errors by 10%.
    
-**Online Retailer @ Self-Employed**   
+**Online Retailer @ Self-Employed | Remote**   
 2020 - 2021 
 
 - Sold over 10 items weekly through various platforms with 100% customer satisfaction, handling all stages of the sales process:
@@ -26,7 +26,6 @@
 
 ## Projects
 ### Data Analytics
-2023 - 2024
 
 Performed self-guided learning to develop skills in Excel, SQL, and Tableau / Power BI
   * [Pure Wilderness Fundraising Efforts Analysis](https://github.com/K-Bloch/pure-wilderness-fundraising-insights)
