@@ -1,5 +1,6 @@
 title: Karolina Bloch
-#logo: relative path of an image, photo
-#description: text below image
+#logo: https://github.com/K-Bloch/portfolio/blob/main/assets/img/profile_photo.jpg
+logo: /assets/img/profile_photo.jpg
+description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
