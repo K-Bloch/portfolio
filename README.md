@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical skills: SQL, Power BI, Tableau, Alteryx, MS Office (Excel, PowerPoint, Word), Python
+#### Technical skills: SQL, Power BI, Tableau, Alteryx, MS Office (Excel, PowerPoint, Word), Python, Jupyter Notebook
 
 ## Experience
 **Client Service and Operations Analyst @ State Street Bank | Remote**  
