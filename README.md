@@ -27,7 +27,12 @@
 ## Projects
 ### Data Analytics
 
-Performed self-guided learning to develop skills in Excel, SQL, and Tableau / Power BI
+Performed self-guided learning to develop skills in Excel, SQL, Python and Tableau / Power BI
+  * [Cafe Rewards Program: Interaction Patterns and Completion Rates](https://github.com/K-Bloch/cafe-rewards-offers-analysis)
+    * Analyzed customer interaction patterns and offer completion rates for a café rewards program using over 300,000 event records.
+    * Developed visualizations to uncover trends in offers such as discounts, "buy one get one free," and informational campaigns to clearly present findings to stakeholders.
+    * Identified key insights regarding age-based customer interaction patterns, issuing targeted recommendations to engage both younger and older demographics.
+    * Highlighted one highly successful campaign achieving a 93% completion rate and provided actionable insights to replicate its success.
   * [Pure Wilderness Fundraising Efforts Analysis](https://github.com/K-Bloch/pure-wilderness-fundraising-insights)
     * Analyzed declining donor acquisition numbers (over 5,000 donor records) for a wilderness preservation organization and identified channels with a lasting impact on donor acquisition.
     * Built dashboards to provide stakeholders with a clear year-over-year overview, comparing current numbers with long-term metrics such as Lifetime Value (LTV) and Client Retention Rate (CRR).
