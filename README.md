@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical skills: SQL, Power BI, Tableau, Alteryx, MS Office (Excel, PowerPoint, Word), Python, Jupyter Notebook, VS Code, Power Automate, Power Apps, Dataverse, GitHub, Bash, Postman
+#### Technical skills: SQL, Power BI, Tableau, Alteryx, MS Office (Excel, PowerPoint, Word), Python, Jupyter Notebook, VS Code, Power Automate, Power Apps, Dataverse, GitHub, Bash, Postman, REST API
 
 ## Experience
 **Client Service and Operations Analyst @ State Street Bank | Remote**  
