@@ -47,7 +47,7 @@ Performed self-guided learning to develop skills in Excel, SQL, Python and Table
     * Conducted research to identify three dishwasher models that met specific client requirements. Compared each model based on functionality, price, and features to determine the best option. Analyzed the technical specifications of an older model to ensure compatibility with newer options.
    
 ### Automation and Workflow Design
-   * [Agromonitoring: Crop Field Monitoring with Agromonitoring API, Power Automate and Power Apps](https://github.com/K-Bloch/agromonitoring)
+   * [Agromonitoring: Crop Field Monitoring](https://github.com/K-Bloch/agromonitoring)
      * Developed an app using Power Automate, Power Apps, and Dataverse to retrieve and display real-time data on agricultural fields, like weather, soil conditions, and satellite imagery, allowing users to monitor field conditions.
 
 ## Education   
