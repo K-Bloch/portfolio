@@ -3,6 +3,11 @@
 #### Technical skills: SQL, Power BI, Tableau, Alteryx, MS Office (Excel, PowerPoint, Word), Python, Jupyter Notebook, VS Code, Power Automate, Power Apps, Dataverse, GitHub, Bash, Postman, REST API
 
 ## Projects
+
+### Automation and Workflow Design
+  * [Agromonitoring: Crop Field Monitoring](https://github.com/K-Bloch/agromonitoring)
+    * Developed an app using Power Automate, Power Apps, and Dataverse to retrieve and display real-time data on agricultural fields, like weather, soil conditions, and satellite imagery, allowing users to monitor field conditions.
+
 ### Data Analytics
 
 Performed self-guided learning to develop skills in Excel, SQL, Python and Tableau / Power BI
@@ -24,10 +29,6 @@ Performed self-guided learning to develop skills in Excel, SQL, Python and Table
   * [Research and Recommendation Project](https://github.com/K-Bloch/research-and-recommendation-project)
     * Conducted research to identify three dishwasher models that met specific client requirements. Compared each model based on functionality, price, and features to determine the best option. Analyzed the technical specifications of an older model to ensure compatibility with newer options.
    
-### Automation and Workflow Design
-   * [Agromonitoring: Crop Field Monitoring](https://github.com/K-Bloch/agromonitoring)
-     * Developed an app using Power Automate, Power Apps, and Dataverse to retrieve and display real-time data on agricultural fields, like weather, soil conditions, and satellite imagery, allowing users to monitor field conditions.
-
 ## Education   
   **Data Analytics Professional Certificate**   
    DataCamp  
