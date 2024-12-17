@@ -34,7 +34,7 @@ Performed self-guided learning to develop skills in Excel, SQL, Python and Table
   <summary>Expand</summary>
 
   * [AI Text Summarizer App](https://replit.com/@karolinabloch/AI-Text-Summarizer-App-final)
-    * It's an AI-powered text summarizer built using **Node.js**, **Express**, and **Axios**.
+    * It's an AI-powered text summarizer built using Node.js, Express, Axios, HTML, CSS, REST APIs, and Large Language Models (LLMs).
     * The app connects to two Hugging Face models:
       * `bart-large-cnn` for text summarization (pre-trained on English and fine-tuned on CNN Daily Mail).
       * `Stable Diffusion v1-4` for text-to-image generation.
