@@ -28,6 +28,25 @@ Performed self-guided learning to develop skills in Excel, SQL, Python and Table
 ### Research
   * [Research and Recommendation Project](https://github.com/K-Bloch/research-and-recommendation-project)
     * Conducted research to identify three dishwasher models that met specific client requirements. Compared each model based on functionality, price, and features to determine the best option. Analyzed the technical specifications of an older model to ensure compatibility with newer options.
+
+### More
+<details>
+  <summary>Expand</summary>
+
+  * [AI Text Summarizer App](https://replit.com/@karolinabloch/AI-Text-Summarizer-App-final)
+    * It's an AI-powered text summarizer built using **Node.js**, **Express**, and **Axios**.
+    * The app connects to two Hugging Face models:
+      * `bart-large-cnn` for text summarization (pre-trained on English and fine-tuned on CNN Daily Mail).
+      * `Stable Diffusion v1-4` for text-to-image generation.
+    * This project is a learning exercise from Postman Academy.
+    * The guided portion covered the text summarizer implementation, while I developed:
+      * The text-to-image functionality.
+      * Features for storing and displaying generated images on the website.
+
+</details>
+
+
+
    
 ## Education   
   **Data Analytics Professional Certificate**   
