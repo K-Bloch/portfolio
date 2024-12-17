@@ -31,11 +31,11 @@ Performed self-guided learning to develop skills in Excel, SQL, Python and Table
 
 ### More
   * [Text Summarization Web App with Hugging Face Integration](https://replit.com/@karolinabloch/AI-Text-Summarizer-App-final)
+    * This project is a learning exercise from [Postman Academy](https://www.postman.com/postman-student-programs/ai-text-summarizer-with-node-js-and-hugging-face-api/overview).
     * It's an AI-powered text summarizer built using Node.js, Express, Axios, HTML, CSS, REST APIs, and Large Language Models (LLMs).
     * The app connects to two Hugging Face models:
       * `bart-large-cnn` for text summarization (pre-trained on English and fine-tuned on CNN Daily Mail).
       * `Stable Diffusion v1-4` for text-to-image generation.
-    * This project is a learning exercise from Postman Academy.
     * The guided portion covered the text summarizer implementation, while I developed:
       * The text-to-image functionality.
       * Features for storing and displaying generated images on the website.
