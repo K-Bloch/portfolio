@@ -6,7 +6,7 @@
 
 ### Automation and Workflow Design
   * [Agromonitoring: Crop Field Monitoring](https://github.com/K-Bloch/agromonitoring)
-    * Developed an app using Power Automate, Power Apps, and Dataverse to retrieve and display real-time data on agricultural fields, like weather, soil conditions, and satellite imagery, allowing users to monitor field conditions.
+    * Developed a no-code application using Power Automate, Power Apps, and Dataverse data storage to retrieve and display daily-updated data on agricultural fields, including weather, soil conditions, and satellite imagery, allowing users to easily check field conditions on the go.
 
 ### Data Analytics
 
