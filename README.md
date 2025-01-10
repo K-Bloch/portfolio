@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical skills: SQL, Power BI, Tableau, Alteryx, MS Office (Excel, PowerPoint, Word), Python, Jupyter Notebook, VS Code, Power Automate, Power Apps, Dataverse, GitHub, Bash, Postman, REST API
+#### Technical skills: SQL, Power BI, Tableau, Python, Jupyter Notebook, VS Code, Power Automate, Power Apps, n8n, GitHub, Postman, REST API, Google Sheets, Slack, Airtable
 
 ## Projects
 
