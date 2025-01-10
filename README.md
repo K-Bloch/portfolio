@@ -16,6 +16,7 @@ Performed self-guided learning to develop skills in Excel, SQL, Python and Table
     * Developed visualizations to uncover trends in offers such as discounts, "buy one get one free," and informational campaigns to clearly present findings to stakeholders.
     * Identified key insights regarding age-based customer interaction patterns, issuing targeted recommendations to engage both younger and older demographics.
     * Highlighted one highly successful campaign achieving a 93% completion rate and provided actionable insights to replicate its success.
+    * Used Python with the seaborn, pandas, matplotlib, and ast libraries for data analysis, visualization, and parsing structured data.
   * [Pure Wilderness Fundraising Efforts Analysis](https://github.com/K-Bloch/pure-wilderness-fundraising-insights)
     * Analyzed declining donor acquisition numbers (over 5,000 donor records) for a wilderness preservation organization and identified channels with a lasting impact on donor acquisition.
     * Built dashboards to provide stakeholders with a clear year-over-year overview, comparing current numbers with long-term metrics such as Lifetime Value (LTV) and Client Retention Rate (CRR).
