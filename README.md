@@ -1,6 +1,23 @@
 # Data Analyst
 
-#### Technical skills: SQL, Power BI, Tableau, Python, Jupyter Notebook, VS Code, Power Automate, Power Apps, n8n, GitHub, Postman, REST API, Google Sheets, Slack, Airtable
+## Tech Stack  
+
+### No-Code / Low-Code  
+- **Workflow Automation & Custom Apps**: Power Automate, Power Apps, n8n, Alteryx, Dataverse  
+- **Deployment & Integration**: ngrok, Docker  
+- **API Tools**: Postman, REST API  
+- **AI Tools**: ChatGPT, Hugging Face, LLMs (Large Language Models)  
+ 
+### Data Analytics / BI  
+- **BI Tools**: Power BI, Tableau, Google Sheets, Airtable  
+- **Data Manipulation & Visualization**: SQL, pandas, seaborn, matplotlib  
+- **Programming**: Python, Jupyter Notebook  
+
+### Others  
+- **Communication & Collaboration**: Microsoft Teams, Slack, Agile
+- **Programming & Development**: HTML, CSS, JavaScript  
+- **Version Control**: GitHub  
+- **Environments & IDEs**: VS Code, Replit  
 
 ## Projects
 
